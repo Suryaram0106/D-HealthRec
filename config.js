@@ -1,0 +1,1 @@
+export const RecordContractAddress = "0xbEa0a37F9fcE1f54D8eEd0EABB127F1BBFE32917"
